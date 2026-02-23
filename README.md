@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Carlos Moreno Henao 👋</h1>
+  <h1>Hi, I'm Carlos Moreno Henao </h1>
   <p align="center">
     <strong>Business Management Professional | Marketing Analytics | Data Strategy</strong>
   </p>
