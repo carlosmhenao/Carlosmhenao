@@ -28,16 +28,23 @@
 
 ---
 
+### Portfolio Insights & Activity
 
-### My GitHub Insights
+<div align="center">
+  
+| Status | Primary Focus | Main Goal |
+| :--- | :--- | :--- |
+|  **Active** | Customer Intelligence | Driving ROI through Data |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosmhenao&show_icons=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=444" alt="Carlos Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmhenao&layout=compact&theme=default&hide_border=true&title_color=0077B5&text_color=444" alt="Top Languages" height="150" />
-</p>
+<br />
+
+#### 🛠️ Proficiency Level
+![Python](https://img.shields.io/badge/Python-Expert-0077B5?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Analysis-Advanced-0077B5?style=flat-square) ![Business Strategy](https://img.shields.io/badge/Strategy-Senior-0077B5?style=flat-square)
+
+</div>
 
 ---
+
 
 <div align="center">
   <h3>Let's build something data-driven together</h3>
