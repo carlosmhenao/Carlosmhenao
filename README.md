@@ -25,6 +25,11 @@
 * **Solution:** Developed an RFM model in Python to identify high-value "Champions" and "At-Risk" segments.
 * **Result:** Provided actionable insights for a 20% targeted retention campaign.
 * **Tech:** `Python`, `Pandas`, `Matplotlib`, `Marketing Analytics`.
+#### [Credit Risk & Loan Default Prediction](https://github.com/carlosmhenao/Credit-Risk-Prediction-Banking)
+* **Business Problem:** Minimize financial loss from loan defaults in a high-risk portfolio.
+* **Solution:** Built a Logistic Regression model with `Scikit-Learn`, optimizing for **Recall** to detect potential defaulters.
+* **Result:** Increased detection of toxic loans **from 27% to 71%**, potentially saving millions in bad debt.
+* **Tech:** `Python`, `Machine Learning`, `Risk Management Strategy`.
 
 ---
 
