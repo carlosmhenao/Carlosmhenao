@@ -30,6 +30,13 @@
 * **Solution:** Built a Logistic Regression model with `Scikit-Learn`, optimizing for **Recall** to detect potential defaulters.
 * **Result:** Increased detection of toxic loans **from 27% to 71%**, potentially saving millions in bad debt.
 * **Tech:** `Python`, `Machine Learning`, `Risk Management Strategy`.
+### [Digital Marketing Profitability & ROI Analysis](https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Description:** Analyzed 8,000+ digital marketing campaign records to audit ad spend efficiency, maximize Return on Investment (ROI), and identify high-converting customer acquisition channels.
+**Tools:** Tableau, Data Analysis, Business Intelligence, Logical Modeling, Financial KPIs.
+**Key Achievements:**
+- Engineered core financial KPIs (Net Profit, ROI) using calculated fields to translate raw transactional data into actionable business metrics.
+- Identified the Referral channel as the primary revenue driver, generating $14.1M in net profit and outperforming paid channels with a 162.9% average ROI.
+- Formulated a data-driven strategy to reallocate 15% of underperforming social media ad budgets toward scaling high-yield customer loyalty programs.
 
 ---
 
