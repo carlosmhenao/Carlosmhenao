@@ -20,19 +20,33 @@
 
 ###  Strategic Projects
 
+#### [Nike Phantom 6: AI-Driven Commercial Case Study](https://github.com/carlosmhenao/nike-phantom6-ai-commercial)
+* **Business Problem:** How to leverage generative AI to streamline high-quality, cinematic sports product marketing?
+* **Solution:** Produced a full AI-driven commercial utilizing advanced visual generation, sound design, and complex post-production editing workflows.
+* **Result:** Developed a scalable framework for generating consistent visual assets, demonstrating the viability of AI in reducing production timelines while maintaining premium brand standards.
+* **Tech:** `Generative AI`, `Video Production`, `Creative Direction`, `Marketing Strategy`.
+
+#### [A/B Testing & ROI Optimization Analysis](https://github.com/carlosmhenao/AB-Testing-ROI-Analysis)
+* **Business Problem:** Maximize campaign conversion rates and ensure statistical significance in marketing spend decisions.
+* **Solution:** Designed and evaluated an A/B test framework using Python to analyze user behavior, test hypotheses, and evaluate campaign performance metrics.
+* **Result:** Identified the statistically significant winning variant, providing actionable, data-driven recommendations to scale ROI.
+* **Tech:** `Python`, `Statistical Analysis`, `A/B Testing`, `Marketing Analytics`.
+
 ####  [E-commerce Customer Segmentation (RFM Analysis)](https://github.com/carlosmhenao/E-commerce-RFM-Analysis)
 * **Business Problem:** How to optimize marketing spend in a 400k+ transaction dataset?
 * **Solution:** Developed an RFM model in Python to identify high-value "Champions" and "At-Risk" segments.
 * **Result:** Provided actionable insights for a 20% targeted retention campaign.
 * **Tech:** `Python`, `Pandas`, `Matplotlib`, `Marketing Analytics`.
+
 #### [Credit Risk & Loan Default Prediction](https://github.com/carlosmhenao/Credit-Risk-Prediction-Banking)
 * **Business Problem:** Minimize financial loss from loan defaults in a high-risk portfolio.
 * **Solution:** Built a Logistic Regression model with `Scikit-Learn`, optimizing for **Recall** to detect potential defaulters.
 * **Result:** Increased detection of toxic loans **from 27% to 71%**, potentially saving millions in bad debt.
 * **Tech:** `Python`, `Machine Learning`, `Risk Management Strategy`.
+
 ### [Digital Marketing Profitability & ROI Analysis](https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-**Description:** Analyzed 8,000+ digital marketing campaign records to audit ad spend efficiency, maximize Return on Investment (ROI), and identify high-converting customer acquisition channels.
-**Tools:** Tableau, Data Analysis, Business Intelligence, Logical Modeling, Financial KPIs.
+**Description:** Analyzed 8,000+ digital marketing campaign records to audit ad spend efficiency, maximize Return on Investment (ROI), and identify high-converting customer acquisition channels.  
+**Tools:** Tableau, Data Analysis, Business Intelligence, Logical Modeling, Financial KPIs.  
 **Key Achievements:**
 - Engineered core financial KPIs (Net Profit, ROI) using calculated fields to translate raw transactional data into actionable business metrics.
 - Identified the Referral channel as the primary revenue driver, generating $14.1M in net profit and outperforming paid channels with a 162.9% average ROI.
