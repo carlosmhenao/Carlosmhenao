@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Carlos Moreno Henao 👋</h1>
+  <h1>Hi, I'm Carlos Moreno Henao </h1>
   <p><strong>Marketing Analyst &amp; Strategist · Email · eCommerce · Paid · Bilingual EN/ES</strong></p>
   <p><em>Marketing that's built to be measured — campaigns and brand, backed by the data behind them.</em></p>
 
