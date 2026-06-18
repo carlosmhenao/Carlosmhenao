@@ -22,60 +22,20 @@ Marketing builder with a founder's bias for ownership. I run the full DTC stack 
 ### Selected work
 
 <div align="center">
+
 <code>$14.1M profit surfaced</code> &nbsp; <code>162.9% ROI</code> &nbsp; <code>400K+ records modeled</code> &nbsp; <code>335K-visitor experiments</code>
+
+<br>
+
+<a href="https://github.com/carlosmhenao/digital-marketing-profitability-analysis"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosmhenao&repo=digital-marketing-profitability-analysis&bg_color=0D1117&title_color=C9FF3D&icon_color=C9FF3D&text_color=8B949E&border_color=21262D&show_owner=false" alt="Digital Marketing Profitability Dashboard" /></a>
+<a href="https://github.com/carlosmhenao/E-commerce-RFM-Analysis"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosmhenao&repo=E-commerce-RFM-Analysis&bg_color=0D1117&title_color=C9FF3D&icon_color=C9FF3D&text_color=8B949E&border_color=21262D&show_owner=false" alt="E-commerce RFM Segmentation" /></a>
+<a href="https://github.com/carlosmhenao/AB-Testing-ROI-Analysis"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosmhenao&repo=AB-Testing-ROI-Analysis&bg_color=0D1117&title_color=C9FF3D&icon_color=C9FF3D&text_color=8B949E&border_color=21262D&show_owner=false" alt="A/B Testing — Campaign Conversion" /></a>
+<a href="https://github.com/carlosmhenao/nike-phantom6-ai-commercial"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosmhenao&repo=nike-phantom6-ai-commercial&bg_color=0D1117&title_color=C9FF3D&icon_color=C9FF3D&text_color=8B949E&border_color=21262D&show_owner=false" alt="Nike Phantom 6 — AI Brand Spot" /></a>
+<a href="https://github.com/carlosmhenao/Credit-Risk-Prediction-Banking"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosmhenao&repo=Credit-Risk-Prediction-Banking&bg_color=0D1117&title_color=C9FF3D&icon_color=C9FF3D&text_color=8B949E&border_color=21262D&show_owner=false" alt="Credit Risk — Loan Default Prediction" /></a>
+
+<sub>↳ Live: <a href="https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard">Profitability dashboard on Tableau Public</a></sub>
+
 </div>
-
-<sub>A case study per project — click to expand ↓</sub>
-
-<details open>
-<summary><b>Digital Marketing Profitability Dashboard</b> &nbsp;·&nbsp; $14.1M profit channel &nbsp;·&nbsp; 162.9% ROI</summary>
-
-**Challenge** — 8,000+ campaign records across six channels, with no clear read on which spend actually paid back.<br>
-**Approach** — Rebuilt channel attribution in Tableau + SQL and engineered Net-Profit and ROI as calculated fields.<br>
-**Impact** — Surfaced a **$14.1M** profit channel hidden under a misconfigured attribution rule, then modeled a 15% reallocation at **162.9% ROI**.
-
-`Tableau` · `SQL` · `Attribution Modeling` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/digital-marketing-profitability-analysis) · [Live dashboard](https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard)
-</details>
-
-<details>
-<summary><b>E-commerce Customer Segmentation — RFM</b> &nbsp;·&nbsp; 647 Champions · 700 At-Risk</summary>
-
-**Challenge** — 400K+ transactions and a marketing budget spread evenly across a flat customer base.<br>
-**Approach** — Built an RFM scoring model in Python, ranking customers by Recency, Frequency and Monetary value.<br>
-**Impact** — Isolated **647 Champions** and **700 At-Risk** accounts, enabling a focused 20% retention-and-reward strategy.
-
-`Python` · `Pandas` · `Segmentation` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/E-commerce-RFM-Analysis)
-</details>
-
-<details>
-<summary><b>A/B Testing — Campaign Conversion</b> &nbsp;·&nbsp; killed a losing variant <i>before</i> launch</summary>
-
-**Challenge** — A proposed campaign variant the team was ready to ship company-wide.<br>
-**Approach** — Designed a two-proportion Z-test across 335K+ visitors (Control vs Test).<br>
-**Impact** — Proved the variant would *cut* conversion (9.83% → 8.64%, p &lt; 0.001) — flagged pre-launch and protected the spend.
-
-`SQL` · `Python` · `Two-Proportion Z-Test` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/AB-Testing-ROI-Analysis)
-</details>
-
-<details>
-<summary><b>Nike Phantom 6 — AI Brand Spot</b> &nbsp;·&nbsp; end-to-end AI-generated 4K commercial</summary>
-
-**Brief** — A launch spot for the Nike Phantom 6 — with no production budget or crew.<br>
-**Build** — Produced a full 4K commercial (concept, motion, color, sound) through generative-AI workflows.<br>
-**Outcome** — A working model for how next-generation brand creative gets made.
-
-`Generative AI` · `Creative Direction` · `Brand` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/nike-phantom6-ai-commercial)
-</details>
-
-<details>
-<summary><b>Credit Risk — Loan Default Prediction</b> &nbsp;·&nbsp; detection 27% → 71%</summary>
-
-**Challenge** — Catching toxic loans before approval in a high-risk portfolio.<br>
-**Approach** — Recall-optimized logistic-regression model built in Scikit-Learn.<br>
-**Impact** — Lifted toxic-loan detection from **27% to 71%** — the data-depth foundation behind the marketing analytics.
-
-`Python` · `Scikit-Learn` · `Machine Learning` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/Credit-Risk-Prediction-Banking)
-</details>
 
 ### Toolkit
 
