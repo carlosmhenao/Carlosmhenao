@@ -1,84 +1,56 @@
 <div align="center">
-  <h1>Hi, I'm Carlos Moreno Henao </h1>
-  <p align="center">
-    <strong>Business Management Professional | Marketing Analytics | Data Strategy</strong>
-  </p>
-  <p><em>Transforming complex datasets into actionable business growth and strategic ROI.</em></p>
+  <h1>Hi, I'm Carlos Moreno Henao 👋</h1>
+  <p><strong>Marketing Analyst &amp; Strategist · Email · eCommerce · Paid · Bilingual EN/ES</strong></p>
+  <p><em>Marketing that's built to be measured — campaigns and brand, backed by the data behind them.</em></p>
+
+  <a href="https://carlosmorenohenao.com"><img src="https://img.shields.io/badge/Portfolio-carlosmorenohenao.com-C9FF3D?style=for-the-badge&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/carlosmorenohenao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:carlosmhen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
 
-### Technical Ecosystem
+### 🎯 What I do
+B.S. in Business Management &amp; Marketing (Quincy University, 2026) and co-founder of **GSX**, a U.S. college-soccer agency where I built the brand, email automation, and content from zero. I run **DTC marketing** — email, paid, and content — and the analytics that prove it works. **Klaviyo, HubSpot &amp; Google Ads certified** · bilingual EN/ES · based in Kansas City.
 
-| Category | Tools & Technologies |
+### 🧰 Stack
+| | |
 | :--- | :--- |
-| **Data Science** | ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Databases** | ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **BI & Viz** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white) |
+| **Marketing &amp; MarTech** | Klaviyo · HubSpot · Google Ads · GA4 · Meta Ads · Shopify · Canva · Adobe |
+| **Analytics &amp; Data** | Python · Pandas · SQL · Tableau · A/B Testing · RFM Segmentation |
+| **AI &amp; Automation** | Claude API · Prompt Engineering · n8n · Zapier |
+
+### 📜 Certifications
+`Klaviyo Product — Practitioner`  ·  `Google Ads Search`  ·  `Google Analytics (GA4)`  ·  `HubSpot — Inbound · Marketing Hub · Email · SEO`
 
 ---
 
-###  Strategic Projects
+### 🚀 Featured Work
 
-#### [Nike Phantom 6: AI-Driven Commercial Case Study](https://github.com/carlosmhenao/nike-phantom6-ai-commercial)
-* **Business Problem:** How to leverage generative AI to streamline high-quality, cinematic sports product marketing?
-* **Solution:** Produced a full AI-driven commercial utilizing advanced visual generation, sound design, and complex post-production editing workflows.
-* **Result:** Developed a scalable framework for generating consistent visual assets, demonstrating the viability of AI in reducing production timelines while maintaining premium brand standards.
-* **Tech:** `Generative AI`, `Video Production`, `Creative Direction`, `Marketing Strategy`.
+**1 · [Digital Marketing Profitability Dashboard](https://github.com/carlosmhenao/digital-marketing-profitability-analysis)** — [Live ▸](https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard)
+Audited 8,000+ campaign records across 6 channels and surfaced a **$14.1M profit channel** hidden under a misconfigured attribution rule — recommended a 15% budget reallocation at **162.9% ROI**.
+`Tableau` · `SQL` · `ROI` · `Attribution`
 
-#### [A/B Testing & ROI Optimization Analysis](https://github.com/carlosmhenao/AB-Testing-ROI-Analysis)
-* **Business Problem:** Maximize campaign conversion rates and ensure statistical significance in marketing spend decisions.
-* **Solution:** Designed and evaluated an A/B test framework using Python to analyze user behavior, test hypotheses, and evaluate campaign performance metrics.
-* **Result:** Identified the statistically significant winning variant, providing actionable, data-driven recommendations to scale ROI.
-* **Tech:** `Python`, `Statistical Analysis`, `A/B Testing`, `Marketing Analytics`.
+**2 · [E-commerce Customer Segmentation — RFM](https://github.com/carlosmhenao/E-commerce-RFM-Analysis)**
+Segmented 400K+ transactions into actionable tiers — **647 Champions / 700 At-Risk** — enabling a 20% targeted retention strategy.
+`Python` · `Pandas` · `Segmentation`
 
-####  [E-commerce Customer Segmentation (RFM Analysis)](https://github.com/carlosmhenao/E-commerce-RFM-Analysis)
-* **Business Problem:** How to optimize marketing spend in a 400k+ transaction dataset?
-* **Solution:** Developed an RFM model in Python to identify high-value "Champions" and "At-Risk" segments.
-* **Result:** Provided actionable insights for a 20% targeted retention campaign.
-* **Tech:** `Python`, `Pandas`, `Matplotlib`, `Marketing Analytics`.
+**3 · [A/B Testing — Campaign Conversion](https://github.com/carlosmhenao/AB-Testing-ROI-Analysis)**
+Hypothesis testing on 335K+ visitors. Proved the proposed variant would *cut* conversion (9.83% → 8.64%, p &lt; 0.001) — flagged it before launch and saved the spend.
+`SQL` · `Python` · `Two-Proportion Z-Test`
 
-#### [Credit Risk & Loan Default Prediction](https://github.com/carlosmhenao/Credit-Risk-Prediction-Banking)
-* **Business Problem:** Minimize financial loss from loan defaults in a high-risk portfolio.
-* **Solution:** Built a Logistic Regression model with `Scikit-Learn`, optimizing for **Recall** to detect potential defaulters.
-* **Result:** Increased detection of toxic loans **from 27% to 71%**, potentially saving millions in bad debt.
-* **Tech:** `Python`, `Machine Learning`, `Risk Management Strategy`.
+**4 · [Nike Phantom 6 — AI Brand Spot](https://github.com/carlosmhenao/nike-phantom6-ai-commercial)**
+End-to-end AI-generated 4K commercial — concept, motion, color, and sound — a proof of how next-gen brand creative gets made.
+`Generative AI` · `Creative Direction` · `Brand Storytelling`
 
-### [Digital Marketing Profitability & ROI Analysis](https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-**Description:** Analyzed 8,000+ digital marketing campaign records to audit ad spend efficiency, maximize Return on Investment (ROI), and identify high-converting customer acquisition channels.  
-**Tools:** Tableau, Data Analysis, Business Intelligence, Logical Modeling, Financial KPIs.  
-**Key Achievements:**
-- Engineered core financial KPIs (Net Profit, ROI) using calculated fields to translate raw transactional data into actionable business metrics.
-- Identified the Referral channel as the primary revenue driver, generating $14.1M in net profit and outperforming paid channels with a 162.9% average ROI.
-- Formulated a data-driven strategy to reallocate 15% of underperforming social media ad budgets toward scaling high-yield customer loyalty programs.
+**5 · [Credit Risk &amp; Loan Default Prediction](https://github.com/carlosmhenao/Credit-Risk-Prediction-Banking)**
+Logistic-regression model optimized for recall — lifted toxic-loan detection **27% → 71%**. The data-depth piece behind the marketing.
+`Python` · `Scikit-Learn` · `Machine Learning`
 
 ---
-
-### Portfolio Insights & Activity
 
 <div align="center">
-  
-| Status | Primary Focus | Main Goal |
-| :--- | :--- | :--- |
-|  **Active** | Customer Intelligence | Driving ROI through Data |
-
-<br />
-
-#### 🛠️ Proficiency Level
-![Python](https://img.shields.io/badge/Python-Expert-0077B5?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Analysis-Advanced-0077B5?style=flat-square) ![Business Strategy](https://img.shields.io/badge/Strategy-Senior-0077B5?style=flat-square)
-
-</div>
-
----
-
-
-<div align="center">
-  <h3>Let's build something data-driven together</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosmorenohenao/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmhen@gmail.com)
-  
-  <br />
-  
-  *"In God we trust; all others must bring data." — W. Edwards Deming*
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carlosmhenao&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=C9FF3D&title_color=C9FF3D" alt="GitHub stats" />
+  <br/>
+  <sub>📍 Kansas City · Open to marketing roles (May 2026) · F-1 OPT — no sponsorship needed to start</sub>
 </div>
