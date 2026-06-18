@@ -20,46 +20,61 @@
 Marketing builder with a founder's bias for ownership. I run the full DTC stack — email automation, paid, and content — and the reporting that ties spend to revenue. I co-founded **GSX**, a U.S. college-soccer agency, where I built the brand and growth engine from zero. Klaviyo-, HubSpot-, and Google Ads-certified · bilingual EN/ES · Kansas City.
 
 ### Selected work
-<sub>Click any project to expand ↓</sub>
+
+<div align="center">
+<code>$14.1M profit surfaced</code> &nbsp; <code>162.9% ROI</code> &nbsp; <code>400K+ records modeled</code> &nbsp; <code>335K-visitor experiments</code>
+</div>
+
+<sub>A case study per project — click to expand ↓</sub>
 
 <details open>
-<summary><b>Digital Marketing Profitability Dashboard</b> &nbsp;—&nbsp; surfaced a <b>$14.1M</b> profit channel · <b>162.9% ROI</b></summary>
-<br>
-Audited 8,000+ campaign records across six channels and found a $14.1M profit channel obscured by a misconfigured attribution rule. Modeled a 15% budget reallocation toward high-yield loyalty programs.
-<br><br>
-<code>Tableau</code> <code>SQL</code> <code>Attribution Modeling</code> &nbsp;·&nbsp; <a href="https://github.com/carlosmhenao/digital-marketing-profitability-analysis">Repo</a> · <a href="https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard">Live dashboard</a>
+<summary><b>Digital Marketing Profitability Dashboard</b> &nbsp;·&nbsp; $14.1M profit channel &nbsp;·&nbsp; 162.9% ROI</summary>
+
+**Challenge** — 8,000+ campaign records across six channels, with no clear read on which spend actually paid back.<br>
+**Approach** — Rebuilt channel attribution in Tableau + SQL and engineered Net-Profit and ROI as calculated fields.<br>
+**Impact** — Surfaced a **$14.1M** profit channel hidden under a misconfigured attribution rule, then modeled a 15% reallocation at **162.9% ROI**.
+
+`Tableau` · `SQL` · `Attribution Modeling` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/digital-marketing-profitability-analysis) · [Live dashboard](https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard)
 </details>
 
 <details>
-<summary><b>E-commerce Customer Segmentation — RFM</b> &nbsp;—&nbsp; 647 Champions · 700 At-Risk · 20% retention play</summary>
-<br>
-Segmented 400K+ transactions into actionable RFM tiers, turning a flat customer base into a targeted win-back and reward strategy.
-<br><br>
-<code>Python</code> <code>Pandas</code> <code>Segmentation</code> &nbsp;·&nbsp; <a href="https://github.com/carlosmhenao/E-commerce-RFM-Analysis">Repo</a>
+<summary><b>E-commerce Customer Segmentation — RFM</b> &nbsp;·&nbsp; 647 Champions · 700 At-Risk</summary>
+
+**Challenge** — 400K+ transactions and a marketing budget spread evenly across a flat customer base.<br>
+**Approach** — Built an RFM scoring model in Python, ranking customers by Recency, Frequency and Monetary value.<br>
+**Impact** — Isolated **647 Champions** and **700 At-Risk** accounts, enabling a focused 20% retention-and-reward strategy.
+
+`Python` · `Pandas` · `Segmentation` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/E-commerce-RFM-Analysis)
 </details>
 
 <details>
-<summary><b>A/B Testing — Campaign Conversion</b> &nbsp;—&nbsp; killed a losing variant <i>before</i> launch</summary>
-<br>
-Hypothesis testing across 335K+ visitors proved the proposed variant would reduce conversion (9.83% → 8.64%, p &lt; 0.001). Flagged it pre-launch and protected the spend.
-<br><br>
-<code>SQL</code> <code>Python</code> <code>Two-Proportion Z-Test</code> &nbsp;·&nbsp; <a href="https://github.com/carlosmhenao/AB-Testing-ROI-Analysis">Repo</a>
+<summary><b>A/B Testing — Campaign Conversion</b> &nbsp;·&nbsp; killed a losing variant <i>before</i> launch</summary>
+
+**Challenge** — A proposed campaign variant the team was ready to ship company-wide.<br>
+**Approach** — Designed a two-proportion Z-test across 335K+ visitors (Control vs Test).<br>
+**Impact** — Proved the variant would *cut* conversion (9.83% → 8.64%, p &lt; 0.001) — flagged pre-launch and protected the spend.
+
+`SQL` · `Python` · `Two-Proportion Z-Test` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/AB-Testing-ROI-Analysis)
 </details>
 
 <details>
-<summary><b>Nike Phantom 6 — AI Brand Spot</b> &nbsp;—&nbsp; end-to-end AI-generated 4K commercial</summary>
-<br>
-A full brand commercial — concept, motion, color, and sound — produced through generative-AI workflows. A working model for next-generation brand creative.
-<br><br>
-<code>Generative AI</code> <code>Creative Direction</code> <code>Brand</code> &nbsp;·&nbsp; <a href="https://github.com/carlosmhenao/nike-phantom6-ai-commercial">Repo</a>
+<summary><b>Nike Phantom 6 — AI Brand Spot</b> &nbsp;·&nbsp; end-to-end AI-generated 4K commercial</summary>
+
+**Brief** — A launch spot for the Nike Phantom 6 — with no production budget or crew.<br>
+**Build** — Produced a full 4K commercial (concept, motion, color, sound) through generative-AI workflows.<br>
+**Outcome** — A working model for how next-generation brand creative gets made.
+
+`Generative AI` · `Creative Direction` · `Brand` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/nike-phantom6-ai-commercial)
 </details>
 
 <details>
-<summary><b>Credit Risk — Loan Default Prediction</b> &nbsp;—&nbsp; toxic-loan detection 27% → 71%</summary>
-<br>
-Recall-optimized logistic-regression model — the data-depth foundation behind the marketing analytics.
-<br><br>
-<code>Python</code> <code>Scikit-Learn</code> <code>Machine Learning</code> &nbsp;·&nbsp; <a href="https://github.com/carlosmhenao/Credit-Risk-Prediction-Banking">Repo</a>
+<summary><b>Credit Risk — Loan Default Prediction</b> &nbsp;·&nbsp; detection 27% → 71%</summary>
+
+**Challenge** — Catching toxic loans before approval in a high-risk portfolio.<br>
+**Approach** — Recall-optimized logistic-regression model built in Scikit-Learn.<br>
+**Impact** — Lifted toxic-loan detection from **27% to 71%** — the data-depth foundation behind the marketing analytics.
+
+`Python` · `Scikit-Learn` · `Machine Learning` &nbsp;—&nbsp; [Repo](https://github.com/carlosmhenao/Credit-Risk-Prediction-Banking)
 </details>
 
 ### Toolkit
